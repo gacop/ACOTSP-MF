@@ -1,0 +1,1 @@
+P.A. Martínez and J.M. García, ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach. Engineering Applications of Artificial Intelligence (2020) 104131, https://doi.org/10.1016/j.engappai.2020.104131.
