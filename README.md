@@ -1,5 +1,5 @@
 # ACOTSP-MF
-This github site corresponds to the paper "ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach" published in Engineering Applications of Artificial Intelligence.
+This github site corresponds to the paper "ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach" published in Engineering Applications of Artificial Intelligence, by Pablo A. Martínez and José M. García. Computer Engineering Department, University of Murcia, 30100 Murcia, Spain. https://doi.org/10.1016/j.engappai.2020.104131
 
 Abstract:
 Ant Colony Optimization (ACO) is a population-based meta-heuristic inspired by the social behavior of ants.
@@ -21,3 +21,8 @@ paper reports excellent execution time for the Tour Construction phase, with les
 the earring-200k instance. Finally, a study about the solution quality of ACOTSP-MF has been included,
 showing that ACOTSP-MF paired with local search offers high solution quality (within 2% of the best-known
 solution).
+
+0952-1976/© 2020 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Please cite this article as: P.A. Martínez and J.M. García, ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach. Engineering Applications of Artificial Intelligence (2020) 104131, https://doi.org/10.1016/j.engappai.2020.104131.
