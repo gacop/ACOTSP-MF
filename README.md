@@ -25,4 +25,6 @@ solution).
 0952-1976/© 2020 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
 (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
+The code of this site is licenced under the GNU General Public License v3.0 GNU GPLv3
+
 Please cite this article as: P.A. Martínez and J.M. García, ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach. Engineering Applications of Artificial Intelligence (2020) 104131, https://doi.org/10.1016/j.engappai.2020.104131.
