@@ -1,2 +1,15 @@
 Please cite this article as: P.A. Martínez and J.M. García, ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach. Engineering Applications of Artificial Intelligence (2020) 104131, https://doi.org/10.1016/j.engappai.2020.104131.
 
+@article{MARTINEZ2021104131,
+title = "ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach",
+journal = "Engineering Applications of Artificial Intelligence",
+volume = "99",
+pages = "104131",
+year = "2021",
+issn = "0952-1976",
+doi = "https://doi.org/10.1016/j.engappai.2020.104131",
+url = "http://www.sciencedirect.com/science/article/pii/S0952197620303687",
+author = "Pablo A. Martínez and José M. García",
+keywords = "Ant colony optimization, Large-size  instances, Performance analysis, Meta-heuristics, High-end CPU architectures"
+}
+
