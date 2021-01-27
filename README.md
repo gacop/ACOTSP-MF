@@ -24,7 +24,7 @@ solution).
 
 ### Maintainers:
 
-* [Pablo Martínez][martinez_pablo]: [@drnoob](https://github.com/drnoob)
+* [Pablo Martínez][martinez_pablo]: [@Dr-Noob](https://github.com/Dr-Noob)
 * [José M. García][garcia_josem]: [@jmgarcia](https://github.com/jmgarcia83)
 
 [martinez_pablo]: https://www.um.es/gacop
