@@ -1,7 +1,7 @@
 # ACOTSP-MF
 This github site corresponds to the paper "ACOTSP-MF: A memory-friendly and highly scalable ACOTSP approach" published in Engineering Applications of Artificial Intelligence, by Pablo A. Martínez and José M. García. Computer Engineering Department, University of Murcia, 30100 Murcia, Spain. https://doi.org/10.1016/j.engappai.2020.104131
 
-Abstract:
+## Abstract:
 Ant Colony Optimization (ACO) is a population-based meta-heuristic inspired by the social behavior of ants.
 It is successfully applied in solving many NP-hard problems, such as the Traveling Salesman Problem (TSP).
 Large-sized instances pose two memory problems to the ACOTSP algorithm: the memory size and the memory
@@ -21,5 +21,13 @@ paper reports excellent execution time for the Tour Construction phase, with les
 the earring-200k instance. Finally, a study about the solution quality of ACOTSP-MF has been included,
 showing that ACOTSP-MF paired with local search offers high solution quality (within 2% of the best-known
 solution).
+
+### Maintainers:
+
+* [Pablo Martínez][martinez_pablo]: [@drnoob](https://github.com/drnoob)
+* [José M. García][garcia_josem]: [@jmgarcia](https://github.com/jmgarcia83)
+
+[martinez_pablo]: https://www.um.es/gacop
+[garcia_josem]: https://webs.um.es/jmgarcia
 
 The code of this site is licenced under the GNU General Public License v3.0 GNU GPLv3
