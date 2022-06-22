@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Download instances from TSPLIB, MATH.UWATERLOO and ARTSP
+# Download instances from TSPLIB, math.uwaterloo.ca, elib.zib.de and ARTSP
 
 URL_TSPLIB="http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/tsp"
 URL_ARTSP="http://www.math.uwaterloo.ca/tsp/data/"
@@ -17,7 +17,7 @@ INSTANCES_TSPLIB=(
 )
 
 INSTANCES_ARTSP=(
-  ml/mona-lisa100K  
+  ml/mona-lisa100K
   art/vangogh120K
   art/venus140K
   art/pareja160K
@@ -33,6 +33,7 @@ done
 
 wget "http://www.math.uwaterloo.ca/tsp/vlsi/pla7397.tsp"
 wget "http://www.math.uwaterloo.ca/tsp/world/vm22775.tsp"
+wget "http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/rl11849.tsp"
 
 for i in "${INSTANCES_ARTSP[@]}"
 do
