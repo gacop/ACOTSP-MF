@@ -7,7 +7,6 @@
  
 #include <unistd.h>
 #include <ctype.h>
-using namespace std;
 
 char tsp_file_name[LINE_BUF_LEN];
 

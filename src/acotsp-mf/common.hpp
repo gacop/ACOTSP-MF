@@ -16,7 +16,6 @@
 #include <ctime>
 #include "omp.h"
 #include "mkl_vsl.h"
-using namespace std;
 
 #define INFTY INT_MAX
 
